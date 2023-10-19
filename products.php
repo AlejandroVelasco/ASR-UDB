@@ -43,16 +43,17 @@
   <header id="header" class="fixed-top header-inner-pages">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">ASR-UDB</a></h1>
+      <h1 class="logo me-auto"><a href="index.php">ASR-UDB</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <!-- <a href="index.php" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto " href="index.html  ">Inicio</a></li>
-          <li><a class="nav-link scrollto" href="about_us.html">Sobre nosotros</a></li>
-          <li><a class="nav-link scrollto" href="products.html">Productos</a></li>
-          <li><a class="nav-link scrollto" href="contact.html">Contacto</a></li>
+          <li><a class="nav-link scrollto " href="index.php  ">Inicio</a></li>
+          <li><a class="nav-link scrollto" href="about_us.php">Sobre nosotros</a></li>
+          <li><a class="nav-link scrollto" href="products.php">Productos</a></li>
+          <li><a class="nav-link scrollto" href="contact.php">Contacto</a></li>
+          <li><a class="nav-link scrollto" href="jobs.php">Empleo</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -68,7 +69,7 @@
       <div class="container">
 
         <ol>
-          <li><a href="index.html">Inicio</a></li>
+          <li><a href="index.php">Inicio</a></li>
           <li>Productos</li>
         </ol>
         <h2>Productos</h2>
