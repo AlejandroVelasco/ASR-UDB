@@ -139,9 +139,9 @@
           <div class="col-lg-6 col-md-6 footer-links">
             <h4>Menu</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="index.php">Inicio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about_us.php">Sobre nosotros</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.php">Productos</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>

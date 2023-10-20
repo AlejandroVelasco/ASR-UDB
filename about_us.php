@@ -89,12 +89,19 @@
         <div class="row content">
           <div class="col-lg-6">
             <p>
-              Proyecto I ASR - Servicios de HW y SW
+            En Grupo Griffin, somos motores de la innovación en el mundo de la tecnología. Nuestra historia se teje con la determinación de llevar la tecnología a nuevos horizontes y hacerla accesible para todos.
+            Fundado por un equipo de visionarios apasionados por la tecnología, Grupo Griffin se ha establecido como un referente en el ámbito de routers, switches, servidores en la nube y productos de fibra óptica.
+            Nuestra misión es proveer a individuos, empresas y organizaciones las herramientas y soluciones necesarias para alcanzar sus metas tecnológicas. Ya sea fortaleciendo infraestructuras de red, ampliando la conectividad o mejorando la eficiencia operativa, estamos aquí para impulsar tu éxito.
+            Lo que nos hace únicos es nuestra dedicación a la calidad, la continua innovación y el excepcional servicio al cliente. Trabajamos incansablemente para mantenernos a la vanguardia de las últimas tendencias tecnológicas, lo que nos permite ofrecer soluciones de primera categoría a nuestros clientes.
+            En Grupo Griffin, no solo ofrecemos productos, construimos relaciones sólidas y duraderas con nuestros clientes. Valoramos la confianza que has depositado en nosotros y estamos comprometidos a superar tus expectativas en cada paso del camino.
+            Únete a nosotros en nuestro viaje hacia un futuro más conectado y eficiente. Descubre lo que Grupo Griffin puede hacer por ti y experimenta la excelencia en tecnología que nos define.
+            ¡Bienvenido a la revolución digital con Grupo Griffin!
             </p>
            
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <ul>
+            <p>Fundadores</p>
               <li><i class="ri-check-double-line"></i> David Guillermo Cardona Pérez</li>
               <li><i class="ri-check-double-line"></i> Ronald Gerardo Ramírez Guardado</li>
               <li><i class="ri-check-double-line"></i> Alejandro Ernesto Velasco Crespín</li>
@@ -124,9 +131,9 @@
           <div class="col-lg-6 col-md-6 footer-links">
             <h4>Menu</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="index.php">Inicio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about_us.php">Sobre nosotros</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="products.php">Productos</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
