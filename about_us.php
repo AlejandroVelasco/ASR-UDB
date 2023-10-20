@@ -98,7 +98,6 @@
               <li><i class="ri-check-double-line"></i> David Guillermo Cardona Pérez</li>
               <li><i class="ri-check-double-line"></i> Ronald Gerardo Ramírez Guardado</li>
               <li><i class="ri-check-double-line"></i> Alejandro Ernesto Velasco Crespín</li>
-              <li><i class="ri-check-double-line"></i> Gilberto Emmanuel Durán Meléndez</li>
             </ul>
           </div>
         </div>

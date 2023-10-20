@@ -70,8 +70,8 @@
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1"
           data-aos="fade-up" data-aos-delay="200">
-          <h1>Better Solutions For Your Business</h1>
-          <h2>We are team of talented designers making websites with Bootstrap</h2>
+          <h1>Potenciamos tu conexión, fortalecemos tu red</h1>
+          <h2>Descubre lo último en software, hardware y servicios profesionales en TI en nuestra plataforma de innovación tecnológica</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="about_us.php" class="btn-get-started scrollto">Conocenos</a>
             <a href="products.php" class="btn-get-started scrollto"><i class="bi bi-play-circle"></i><span>Catálogo de
