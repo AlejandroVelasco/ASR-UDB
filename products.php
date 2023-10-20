@@ -43,7 +43,7 @@
   <header id="header" class="fixed-top header-inner-pages">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.php">ASR-UDB</a></h1>
+      <h1 class="logo me-auto"><a href="index.php">GRUPO GRIFFIN</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.php" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
